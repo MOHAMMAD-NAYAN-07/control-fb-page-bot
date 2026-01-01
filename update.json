@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.0.1",
+    "description": "Initial release",
+    "changes": {
+      "added": ["package.json"],
+      "modified": [],
+      "deleted": []
+    }
+  }
+]
